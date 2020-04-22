@@ -1,6 +1,6 @@
                                                         # Tailorin WebSite #
 ***********************************************************************************************************************************
--Ivan G. -> dal 19/04/20 al 22/04/20
+-Ivan G.: Gestione Livello 1 Sito -> dal 19/04/20 al 22/04/20
 Ho creato il layout di base per la Home page, in più ho creato altre due pagine:
   1.fabric.html (layout di base semipronto, da riguardare)
   2.Login.html (pieno di bug)
