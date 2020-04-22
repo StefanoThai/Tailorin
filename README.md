@@ -8,3 +8,4 @@ Ho creato il layout di base per la Home page, in più ho creato altre due pagine
     2b.Questa è una pagina test perchè il login dovrebbe funzionare come un pop up
 ***********************************************************************************************************************************
 
+-Quang Trung T.: Gestione Livello 2 Sito -> 22/04/20
